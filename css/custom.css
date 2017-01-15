@@ -2,6 +2,6 @@ p {
     color: gray
 }
 
-div#linki > a:not(last) {
-    color: aquamarine
+div#linki > a:not(.last) {
+    color: coral
 }
