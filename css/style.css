@@ -1,0 +1,13 @@
+body{
+   background-color: lightgoldenrodyellow;
+   font-size: 14px;    
+}
+p {
+    color: #ff0008
+}
+#miasto, a {
+    color: hotpink
+}
+div#linki > a {
+    color: green
+}
